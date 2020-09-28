@@ -1,2 +1,2 @@
 # assignment
-HUHU assignment - tech@pogo91.com
+HUHU assignment - https://friendly-colden-3cd87e.netlify.app/
